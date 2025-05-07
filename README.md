@@ -4,7 +4,7 @@
 In this exercise, you are expected to implement a smart contract that performs a flash loan based liquidation.
 
 ### Prerequisite
-- You need to register an account on https://www.alchemy.com/ for access to an archive Ethereum node.
+- You need access to an archive Ethereum node (for example by registering an account on https://www.alchemy.com ).
 
 - You need to prepare the nodeJS environment for the project yourself, or have [docker](https://www.docker.com/) installed on your machine.
 
